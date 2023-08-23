@@ -1,0 +1,6 @@
+Numeros grupos de numeros:
+Naturais : N
+Inteiros : I
+Racionais : Q
+Irracionais : I
+Reais : R
